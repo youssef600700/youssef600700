@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @youssef600700
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning fullstuck development
-- 💞️ I’m looking to collaborate on making websites
+- 💞️ I’m looking to collaborate on making awsome websites
 - 📫 How to reach me youssef1650ti@gmail.com
 
 <!---
